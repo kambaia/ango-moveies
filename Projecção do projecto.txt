@@ -1,0 +1,26 @@
+
+
+/**
+ *   consumir a api do themoviedb
+    com objectivo de pegar os filtros em: 
+
+ *   1- origina da netflex 
+ *   2- recomendados ou em em distanca 
+ *   3- Em alta ou seja em alta 
+
+  *   Termos um hero para mostrar as capas dos novos filmes
+ * 
+ * 
+ *   listas de filmes pega
+ * 
+ *     ação
+ *     comedia terror
+ *      terror
+ *     romance 
+ *     documetario
+ * 
+  *   Termos um hero para mostrar as capas dos novos filmes
+ * 
+ * 
+ * */
+ * */
